@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Hi there! This is a call notification from Twilio.</Say>
+    <Say> Thank YOu for your attention.</Say>
+</Response>
